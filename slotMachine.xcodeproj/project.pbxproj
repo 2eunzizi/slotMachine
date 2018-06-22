@@ -14,6 +14,17 @@
 		C33D380820DD6E1300C42025 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C33D380620DD6E1300C42025 /* LaunchScreen.storyboard */; };
 		C33D381320DD6E1300C42025 /* slotMachineTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C33D381220DD6E1300C42025 /* slotMachineTests.swift */; };
 		C33D381E20DD6E1300C42025 /* slotMachineUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C33D381D20DD6E1300C42025 /* slotMachineUITests.swift */; };
+		C33D383520DD6FBF00C42025 /* card_suits1.png in Resources */ = {isa = PBXBuildFile; fileRef = C33D382B20DD6FBE00C42025 /* card_suits1.png */; };
+		C33D383620DD6FBF00C42025 /* card_suits4.png in Resources */ = {isa = PBXBuildFile; fileRef = C33D382C20DD6FBE00C42025 /* card_suits4.png */; };
+		C33D383720DD6FBF00C42025 /* card_suits7.png in Resources */ = {isa = PBXBuildFile; fileRef = C33D382D20DD6FBE00C42025 /* card_suits7.png */; };
+		C33D383820DD6FBF00C42025 /* card_suits8.png in Resources */ = {isa = PBXBuildFile; fileRef = C33D382E20DD6FBE00C42025 /* card_suits8.png */; };
+		C33D383920DD6FBF00C42025 /* card_suits2.png in Resources */ = {isa = PBXBuildFile; fileRef = C33D382F20DD6FBE00C42025 /* card_suits2.png */; };
+		C33D383A20DD6FBF00C42025 /* card_suits3.png in Resources */ = {isa = PBXBuildFile; fileRef = C33D383020DD6FBE00C42025 /* card_suits3.png */; };
+		C33D383B20DD6FBF00C42025 /* card_suits6.png in Resources */ = {isa = PBXBuildFile; fileRef = C33D383120DD6FBE00C42025 /* card_suits6.png */; };
+		C33D383C20DD6FBF00C42025 /* card_suits9.png in Resources */ = {isa = PBXBuildFile; fileRef = C33D383220DD6FBF00C42025 /* card_suits9.png */; };
+		C33D383D20DD6FBF00C42025 /* card_suits10.png in Resources */ = {isa = PBXBuildFile; fileRef = C33D383320DD6FBF00C42025 /* card_suits10.png */; };
+		C33D383E20DD6FBF00C42025 /* card_suits5.png in Resources */ = {isa = PBXBuildFile; fileRef = C33D383420DD6FBF00C42025 /* card_suits5.png */; };
+		C33D384020DD777C00C42025 /* casino.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C33D383F20DD777B00C42025 /* casino.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +58,17 @@
 		C33D381920DD6E1300C42025 /* slotMachineUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = slotMachineUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C33D381D20DD6E1300C42025 /* slotMachineUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = slotMachineUITests.swift; sourceTree = "<group>"; };
 		C33D381F20DD6E1300C42025 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C33D382B20DD6FBE00C42025 /* card_suits1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = card_suits1.png; path = ../../card_suits/card_suits1.png; sourceTree = "<group>"; };
+		C33D382C20DD6FBE00C42025 /* card_suits4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = card_suits4.png; path = ../../card_suits/card_suits4.png; sourceTree = "<group>"; };
+		C33D382D20DD6FBE00C42025 /* card_suits7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = card_suits7.png; path = ../../card_suits/card_suits7.png; sourceTree = "<group>"; };
+		C33D382E20DD6FBE00C42025 /* card_suits8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = card_suits8.png; path = ../../card_suits/card_suits8.png; sourceTree = "<group>"; };
+		C33D382F20DD6FBE00C42025 /* card_suits2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = card_suits2.png; path = ../../card_suits/card_suits2.png; sourceTree = "<group>"; };
+		C33D383020DD6FBE00C42025 /* card_suits3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = card_suits3.png; path = ../../card_suits/card_suits3.png; sourceTree = "<group>"; };
+		C33D383120DD6FBE00C42025 /* card_suits6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = card_suits6.png; path = ../../card_suits/card_suits6.png; sourceTree = "<group>"; };
+		C33D383220DD6FBF00C42025 /* card_suits9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = card_suits9.png; path = ../../card_suits/card_suits9.png; sourceTree = "<group>"; };
+		C33D383320DD6FBF00C42025 /* card_suits10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = card_suits10.png; path = ../../card_suits/card_suits10.png; sourceTree = "<group>"; };
+		C33D383420DD6FBF00C42025 /* card_suits5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = card_suits5.png; path = ../../card_suits/card_suits5.png; sourceTree = "<group>"; };
+		C33D383F20DD777B00C42025 /* casino.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = casino.jpg; path = ../../casino.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +119,17 @@
 		C33D37FC20DD6E1300C42025 /* slotMachine */ = {
 			isa = PBXGroup;
 			children = (
+				C33D382B20DD6FBE00C42025 /* card_suits1.png */,
+				C33D382F20DD6FBE00C42025 /* card_suits2.png */,
+				C33D383020DD6FBE00C42025 /* card_suits3.png */,
+				C33D382C20DD6FBE00C42025 /* card_suits4.png */,
+				C33D383420DD6FBF00C42025 /* card_suits5.png */,
+				C33D383120DD6FBE00C42025 /* card_suits6.png */,
+				C33D382D20DD6FBE00C42025 /* card_suits7.png */,
+				C33D382E20DD6FBE00C42025 /* card_suits8.png */,
+				C33D383220DD6FBF00C42025 /* card_suits9.png */,
+				C33D383320DD6FBF00C42025 /* card_suits10.png */,
+				C33D383F20DD777B00C42025 /* casino.jpg */,
 				C33D37FD20DD6E1300C42025 /* AppDelegate.swift */,
 				C33D37FF20DD6E1300C42025 /* ViewController.swift */,
 				C33D380120DD6E1300C42025 /* Main.storyboard */,
@@ -232,9 +265,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C33D383720DD6FBF00C42025 /* card_suits7.png in Resources */,
+				C33D383820DD6FBF00C42025 /* card_suits8.png in Resources */,
+				C33D383520DD6FBF00C42025 /* card_suits1.png in Resources */,
 				C33D380820DD6E1300C42025 /* LaunchScreen.storyboard in Resources */,
+				C33D383E20DD6FBF00C42025 /* card_suits5.png in Resources */,
 				C33D380520DD6E1300C42025 /* Assets.xcassets in Resources */,
+				C33D383920DD6FBF00C42025 /* card_suits2.png in Resources */,
+				C33D383A20DD6FBF00C42025 /* card_suits3.png in Resources */,
+				C33D384020DD777C00C42025 /* casino.jpg in Resources */,
+				C33D383B20DD6FBF00C42025 /* card_suits6.png in Resources */,
+				C33D383C20DD6FBF00C42025 /* card_suits9.png in Resources */,
+				C33D383D20DD6FBF00C42025 /* card_suits10.png in Resources */,
 				C33D380320DD6E1300C42025 /* Main.storyboard in Resources */,
+				C33D383620DD6FBF00C42025 /* card_suits4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -429,6 +473,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RA9DLL2932;
 				INFOPLIST_FILE = slotMachine/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = leemi.slotMachine;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -444,6 +489,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RA9DLL2932;
 				INFOPLIST_FILE = slotMachine/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = leemi.slotMachine;
 				PRODUCT_NAME = "$(TARGET_NAME)";
